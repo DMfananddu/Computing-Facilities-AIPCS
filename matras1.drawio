@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T12:03:12.727Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="sOjVF-kV0EbLZTOTtrR_" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-26T12:07:06.198Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="7EbOpUN7RIwBjoW3oXyQ" version="13.6.5" type="github">
   <diagram id="4-XFf0C6SKH_D2xYOuUZ" name="Page-1">
     <mxGraphModel dx="2286" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="120" y="80" width="920" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OTciEMqC5oXOVYCcZYfU-6" value="Эластичный пенополиуретан (ППУ) (р = 25кг/м&lt;sup style=&quot;font-size: 12px&quot;&gt;3&lt;/sup&gt;)" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="755" y="20" width="300" height="20" as="geometry" />
+          <mxGeometry x="740" y="20" width="300" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OTciEMqC5oXOVYCcZYfU-7" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=24;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" target="OTciEMqC5oXOVYCcZYfU-6" parent="1" source="OTciEMqC5oXOVYCcZYfU-5">
           <mxGeometry relative="1" as="geometry">
@@ -451,8 +451,8 @@
         <mxCell id="OTciEMqC5oXOVYCcZYfU-130" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fillColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="120" y="700" width="920" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OTciEMqC5oXOVYCcZYfU-131" value="Эластичный пенополиуретан (ППУ) (р = 25кг/м&lt;sup style=&quot;font-size: 12px&quot;&gt;3&lt;/sup&gt;)" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="755" y="640" width="300" height="20" as="geometry" />
+        <mxCell id="OTciEMqC5oXOVYCcZYfU-131" value="Вязкоэластичный ППУ с охлаждающим гелем (гелиевые вставки в структуре наполнителя (р = 50кг/м&lt;sup style=&quot;font-size: 12px&quot;&gt;3&lt;/sup&gt;)" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="430" y="640" width="610" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OTciEMqC5oXOVYCcZYfU-132" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=24;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OTciEMqC5oXOVYCcZYfU-130" target="OTciEMqC5oXOVYCcZYfU-131">
           <mxGeometry relative="1" as="geometry">
