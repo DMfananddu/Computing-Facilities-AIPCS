@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-08T16:54:09.751Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="-jpShrgoqO8HDC0GoyMe" version="13.8.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-11-08T17:01:34.608Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="TmqzOKCS4-QFXjJGwENc" version="13.8.6" type="github" pages="4">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -218,9 +218,6 @@
         <mxCell id="eoZGQBolCjSW6dowUGA1-18" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="eoZGQBolCjSW6dowUGA1-11" source="eoZGQBolCjSW6dowUGA1-15" target="eoZGQBolCjSW6dowUGA1-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eoZGQBolCjSW6dowUGA1-20" value="Ввод&#xa;корректный" style="rhombus;fillColor=#ffffc0;strokeColor=#ff0000;" parent="eoZGQBolCjSW6dowUGA1-11" vertex="1">
-          <mxGeometry x="42.5" y="402" width="105" height="58" as="geometry" />
-        </mxCell>
         <mxCell id="5psqAf0z91V_lSissanz-1" value="Обработка&#xa; введенных &#xa;данных" style="" vertex="1" parent="eoZGQBolCjSW6dowUGA1-11">
           <mxGeometry x="25" y="210" width="110" height="50" as="geometry" />
         </mxCell>
@@ -230,21 +227,33 @@
         <mxCell id="5psqAf0z91V_lSissanz-3" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="eoZGQBolCjSW6dowUGA1-11" source="5psqAf0z91V_lSissanz-1" target="5psqAf0z91V_lSissanz-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5psqAf0z91V_lSissanz-10" value="Синтаксический&#xa;анализ текста" style="" vertex="1" parent="eoZGQBolCjSW6dowUGA1-11">
+          <mxGeometry x="50" y="340" width="110" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="5psqAf0z91V_lSissanz-7" value="Нет" style="elbow=horizontal;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="eoZGQBolCjSW6dowUGA1-11" source="5psqAf0z91V_lSissanz-2" target="5psqAf0z91V_lSissanz-10">
+          <mxGeometry x="-0.7687" y="-26" relative="1" as="geometry">
+            <mxPoint x="-64.75" y="325" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="255" y="235" />
+              <mxPoint x="255" y="290" />
+              <mxPoint x="105" y="290" />
+            </Array>
+            <mxPoint as="offset" />
+            <mxPoint x="255" y="250" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5psqAf0z91V_lSissanz-11" value="Формирование&#xa;метаграфа" style="" vertex="1" parent="eoZGQBolCjSW6dowUGA1-11">
+          <mxGeometry x="50" y="430" width="110" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="5psqAf0z91V_lSissanz-12" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="eoZGQBolCjSW6dowUGA1-11" source="5psqAf0z91V_lSissanz-10" target="5psqAf0z91V_lSissanz-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="35" y="291" as="targetPoint" />
+            <mxPoint x="-10" y="291" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="eoZGQBolCjSW6dowUGA1-22" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="eoZGQBolCjSW6dowUGA1-4" target="eoZGQBolCjSW6dowUGA1-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="665" y="380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eoZGQBolCjSW6dowUGA1-23" value="Нет" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eoZGQBolCjSW6dowUGA1-20" target="eoZGQBolCjSW6dowUGA1-5" edge="1">
-          <mxGeometry x="-0.3674" y="-27" relative="1" as="geometry">
-            <mxPoint x="735.5" y="432" as="targetPoint" />
-            <mxPoint x="1030.0000000000002" y="435" as="sourcePoint" />
-            <mxPoint as="offset" />
-            <Array as="points">
-              <mxPoint x="1153" y="571" />
-              <mxPoint x="1153" y="490" />
-              <mxPoint x="1059" y="490" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="eoZGQBolCjSW6dowUGA1-24" value="Да" style="elbow=horizontal;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="eoZGQBolCjSW6dowUGA1-16" target="eoZGQBolCjSW6dowUGA1-6" edge="1">
@@ -255,13 +264,6 @@
               <mxPoint x="1370" y="320" />
               <mxPoint x="965" y="320" />
             </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eoZGQBolCjSW6dowUGA1-27" value="Да" style="elbow=horizontal;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eoZGQBolCjSW6dowUGA1-20" target="eoZGQBolCjSW6dowUGA1-8" edge="1">
-          <mxGeometry x="-0.6925" y="-20" relative="1" as="geometry">
-            <mxPoint x="775.5" y="652" as="targetPoint" />
-            <mxPoint x="925" y="602" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -278,9 +280,6 @@
         </mxCell>
         <mxCell id="eoZGQBolCjSW6dowUGA1-4" value="Ввод&#xa;слова-сигнала о&#xa;типе ввода текста" style="align=center;" parent="eoZGQBolCjSW6dowUGA1-1" vertex="1">
           <mxGeometry x="60" y="110" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="eoZGQBolCjSW6dowUGA1-5" value="Ошибка&#xa;неправильного&#xa;файла" style="" parent="eoZGQBolCjSW6dowUGA1-1" vertex="1">
-          <mxGeometry x="114" y="370" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eoZGQBolCjSW6dowUGA1-6" value="Ошибка ввода&#xa;данных" style="" parent="eoZGQBolCjSW6dowUGA1-1" vertex="1">
           <mxGeometry x="20" y="202" width="110" height="50" as="geometry" />
@@ -307,15 +306,6 @@
           <mxGeometry x="-94.5" y="-58" as="geometry">
             <mxPoint x="139" y="442" as="targetPoint" />
             <mxPoint x="139" y="420" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eoZGQBolCjSW6dowUGA1-25" value="ё" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="eoZGQBolCjSW6dowUGA1-1" vertex="1">
-          <mxGeometry x="154" y="440" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="eoZGQBolCjSW6dowUGA1-26" value="" style="elbow=horizontal;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="eoZGQBolCjSW6dowUGA1-1" source="eoZGQBolCjSW6dowUGA1-5" target="eoZGQBolCjSW6dowUGA1-25" edge="1">
-          <mxGeometry x="-444.5" y="-48" as="geometry">
-            <mxPoint x="35.35714285714289" y="170" as="targetPoint" />
-            <mxPoint x="35" y="130" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eoZGQBolCjSW6dowUGA1-19" value="Ввод&#xa;имени файла" style="" parent="eoZGQBolCjSW6dowUGA1-1" vertex="1">
@@ -362,13 +352,6 @@
               <mxPoint x="975" y="420" />
             </Array>
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5psqAf0z91V_lSissanz-7" value="Нет" style="elbow=horizontal;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="5psqAf0z91V_lSissanz-2">
-          <mxGeometry x="-0.7687" y="-26" relative="1" as="geometry">
-            <mxPoint x="1105.25" y="465" as="targetPoint" />
-            <mxPoint as="offset" />
-            <mxPoint x="1425" y="390" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
