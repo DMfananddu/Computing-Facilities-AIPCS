@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-08T17:23:28.971Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="XfQrvoCfbp9OPv6tKHuO" version="13.8.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-11-08T17:25:53.019Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="UFXepe899MGBJbEZv-5T" version="13.8.6" type="github" pages="5">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="-68" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -658,16 +658,16 @@
         <mxCell id="bjbZ9XHupbJdNILRa_hM-40" value="Правила" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12" parent="bjbZ9XHupbJdNILRa_hM-1" vertex="1">
           <mxGeometry x="450" y="280" width="160" height="136" as="geometry" />
         </mxCell>
-        <mxCell id="bjbZ9XHupbJdNILRa_hM-34" value="Эксперт" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12" parent="bjbZ9XHupbJdNILRa_hM-1" vertex="1">
+        <mxCell id="bjbZ9XHupbJdNILRa_hM-34" value="Текст" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12" parent="bjbZ9XHupbJdNILRa_hM-1" vertex="1">
           <mxGeometry x="430" y="60" width="160" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="bjbZ9XHupbJdNILRa_hM-36" value="+ фамилия" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="bjbZ9XHupbJdNILRa_hM-34" vertex="1">
+        <mxCell id="bjbZ9XHupbJdNILRa_hM-36" value="+ Файл оригинала" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="bjbZ9XHupbJdNILRa_hM-34" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bjbZ9XHupbJdNILRa_hM-37" value="+ имя" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="bjbZ9XHupbJdNILRa_hM-34" vertex="1">
+        <mxCell id="bjbZ9XHupbJdNILRa_hM-37" value="+ Кол-во абзацев" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="bjbZ9XHupbJdNILRa_hM-34" vertex="1">
           <mxGeometry y="52" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bjbZ9XHupbJdNILRa_hM-38" value="+ email" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="bjbZ9XHupbJdNILRa_hM-34" vertex="1">
+        <mxCell id="bjbZ9XHupbJdNILRa_hM-38" value="+ Кол-во предложений" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="bjbZ9XHupbJdNILRa_hM-34" vertex="1">
           <mxGeometry y="78" width="160" height="26" as="geometry" />
         </mxCell>
       </root>
