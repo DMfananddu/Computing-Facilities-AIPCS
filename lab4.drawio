@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-08T17:02:49.643Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="P0_apDeoPVrIKGwgLCmX" version="13.8.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-11-08T17:03:07.842Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="jyFXLC5e68DNKJTFscWB" version="13.8.6" type="github" pages="4">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -312,14 +312,14 @@
           <mxGeometry x="150.5" y="210" width="109.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5psqAf0z91V_lSissanz-8" value="Ошибка&#xa;неправильного&#xa;файла&#xa;(или имени файла)" style="" vertex="1" parent="eoZGQBolCjSW6dowUGA1-1">
-          <mxGeometry x="30" y="299.5" width="110" height="63" as="geometry" />
+          <mxGeometry x="85" y="299.5" width="110" height="63" as="geometry" />
         </mxCell>
         <mxCell id="5psqAf0z91V_lSissanz-9" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="eoZGQBolCjSW6dowUGA1-1" source="5psqAf0z91V_lSissanz-8" target="eoZGQBolCjSW6dowUGA1-4">
           <mxGeometry x="-994.5" y="-228" as="geometry">
             <mxPoint x="97.5" y="120" as="targetPoint" />
             <mxPoint x="85" y="262" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="85" y="380" />
+              <mxPoint x="140" y="380" />
               <mxPoint x="10" y="380" />
               <mxPoint x="10" y="80" />
               <mxPoint x="115" y="80" />
@@ -349,7 +349,7 @@
             <mxPoint x="1380" y="410" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="1370" y="420" />
-              <mxPoint x="975" y="420" />
+              <mxPoint x="1030" y="420" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
