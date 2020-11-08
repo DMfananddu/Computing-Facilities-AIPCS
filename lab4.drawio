@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-08T16:51:38.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="Z75SwBnQGp5kC3HCwdJx" version="13.8.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-11-08T16:53:12.549Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="w43tpGZaWb4GGjOXH0mN" version="13.8.6" type="github" pages="4">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -236,14 +236,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eoZGQBolCjSW6dowUGA1-23" value="Нет" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eoZGQBolCjSW6dowUGA1-20" target="eoZGQBolCjSW6dowUGA1-5" edge="1">
-          <mxGeometry x="-0.457" y="-44" relative="1" as="geometry">
+          <mxGeometry x="-0.3674" y="-27" relative="1" as="geometry">
             <mxPoint x="735.5" y="432" as="targetPoint" />
             <mxPoint x="1030.0000000000002" y="435" as="sourcePoint" />
-            <mxPoint x="-77" y="-30" as="offset" />
+            <mxPoint as="offset" />
             <Array as="points">
               <mxPoint x="1153" y="571" />
               <mxPoint x="1153" y="490" />
-              <mxPoint x="1019" y="490" />
+              <mxPoint x="1059" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -280,7 +280,7 @@
           <mxGeometry x="60" y="110" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eoZGQBolCjSW6dowUGA1-5" value="Ошибка&#xa;неправильного&#xa;файла" style="" parent="eoZGQBolCjSW6dowUGA1-1" vertex="1">
-          <mxGeometry x="74" y="370" width="110" height="48" as="geometry" />
+          <mxGeometry x="114" y="370" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eoZGQBolCjSW6dowUGA1-6" value="Ошибка ввода&#xa;данных" style="" parent="eoZGQBolCjSW6dowUGA1-1" vertex="1">
           <mxGeometry x="20" y="202" width="110" height="50" as="geometry" />
@@ -310,7 +310,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eoZGQBolCjSW6dowUGA1-25" value="ё" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="eoZGQBolCjSW6dowUGA1-1" vertex="1">
-          <mxGeometry x="114" y="430" width="30" height="30" as="geometry" />
+          <mxGeometry x="154" y="440" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eoZGQBolCjSW6dowUGA1-26" value="" style="elbow=horizontal;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="eoZGQBolCjSW6dowUGA1-1" source="eoZGQBolCjSW6dowUGA1-5" target="eoZGQBolCjSW6dowUGA1-25" edge="1">
           <mxGeometry x="-444.5" y="-48" as="geometry">
