@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-11T16:20:18.444Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="_dsE-BwxHUZSodxPwqoB" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-11T16:56:06.281Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="Bpks4Uzqa-haF_IuXnyj" version="14.4.9" type="github">
   <diagram id="n2Yb_p4xSmyTfC0nmvh4" name="Page-1">
     <mxGraphModel dx="782" dy="2034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -147,14 +147,23 @@
         <mxCell id="Cl8-nfxW1_5p-WXYCP8C-63" value="Приоритет" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="200" y="30" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Cl8-nfxW1_5p-WXYCP8C-65" value="Номер клаузы" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="220" y="220" width="120" height="30" as="geometry" />
+        <mxCell id="Cl8-nfxW1_5p-WXYCP8C-68" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=14;" edge="1" parent="1" source="Cl8-nfxW1_5p-WXYCP8C-65" target="Cl8-nfxW1_5p-WXYCP8C-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Cl8-nfxW1_5p-WXYCP8C-66" value="Номер в клаузе" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="320" y="330" width="120" height="30" as="geometry" />
+        <mxCell id="Cl8-nfxW1_5p-WXYCP8C-65" value="Номер клаузы" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="220" y="210" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl8-nfxW1_5p-WXYCP8C-69" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=14;" edge="1" parent="1" source="Cl8-nfxW1_5p-WXYCP8C-66" target="Cl8-nfxW1_5p-WXYCP8C-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl8-nfxW1_5p-WXYCP8C-66" value="Номер в клаузе" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fontStyle=4" vertex="1" parent="1">
+          <mxGeometry x="220" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl8-nfxW1_5p-WXYCP8C-70" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=14;" edge="1" parent="1" source="Cl8-nfxW1_5p-WXYCP8C-67" target="Cl8-nfxW1_5p-WXYCP8C-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Cl8-nfxW1_5p-WXYCP8C-67" value="Содержимое" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="460" y="335" width="120" height="30" as="geometry" />
+          <mxGeometry x="460" y="330" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
