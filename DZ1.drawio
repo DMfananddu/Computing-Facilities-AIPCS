@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-11T10:51:46.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="u2ZYkMTcgYBeU2JiSzzb" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-11T10:56:42.732Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="EthJxUibMb_3Zd6WsgPd" version="14.4.9" type="github">
   <diagram id="n2Yb_p4xSmyTfC0nmvh4" name="Page-1">
     <mxGraphModel dx="782" dy="2091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -41,7 +41,41 @@
           <mxGeometry x="245" y="280" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Cl8-nfxW1_5p-WXYCP8C-14" value="Синтаксическая группа" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="310" y="60" width="140" height="60" as="geometry" />
+          <mxGeometry x="310" y="50" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl8-nfxW1_5p-WXYCP8C-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=16;" edge="1" parent="1" source="Cl8-nfxW1_5p-WXYCP8C-15" target="Cl8-nfxW1_5p-WXYCP8C-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl8-nfxW1_5p-WXYCP8C-15" value="Подчинённая группа" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="480" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl8-nfxW1_5p-WXYCP8C-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=16;" edge="1" parent="1" source="Cl8-nfxW1_5p-WXYCP8C-16" target="Cl8-nfxW1_5p-WXYCP8C-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl8-nfxW1_5p-WXYCP8C-16" value="Главная группа" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="640" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl8-nfxW1_5p-WXYCP8C-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=16;" edge="1" parent="1" source="Cl8-nfxW1_5p-WXYCP8C-17" target="Cl8-nfxW1_5p-WXYCP8C-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl8-nfxW1_5p-WXYCP8C-17" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="520" y="90" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl8-nfxW1_5p-WXYCP8C-18" value="ISA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="120" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl8-nfxW1_5p-WXYCP8C-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=16;" edge="1" parent="1" source="Cl8-nfxW1_5p-WXYCP8C-19" target="Cl8-nfxW1_5p-WXYCP8C-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cl8-nfxW1_5p-WXYCP8C-19" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="680" y="90" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl8-nfxW1_5p-WXYCP8C-20" value="ISA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="685" y="120" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
