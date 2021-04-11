@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-11T10:56:42.732Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="EthJxUibMb_3Zd6WsgPd" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-11T11:22:11.871Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="IFH_0oXU3mSRwL2o_14u" version="14.4.9" type="github">
   <diagram id="n2Yb_p4xSmyTfC0nmvh4" name="Page-1">
     <mxGraphModel dx="782" dy="2091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -9,36 +9,6 @@
         </mxCell>
         <mxCell id="Cl8-nfxW1_5p-WXYCP8C-2" value="Лексема" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="320" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Cl8-nfxW1_5p-WXYCP8C-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Cl8-nfxW1_5p-WXYCP8C-3" target="Cl8-nfxW1_5p-WXYCP8C-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Cl8-nfxW1_5p-WXYCP8C-3" value="Знак пунктуации" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="200" y="320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Cl8-nfxW1_5p-WXYCP8C-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Cl8-nfxW1_5p-WXYCP8C-4" target="Cl8-nfxW1_5p-WXYCP8C-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Cl8-nfxW1_5p-WXYCP8C-4" value="Словоформа" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="440" y="320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Cl8-nfxW1_5p-WXYCP8C-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Cl8-nfxW1_5p-WXYCP8C-5" target="Cl8-nfxW1_5p-WXYCP8C-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Cl8-nfxW1_5p-WXYCP8C-5" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="480" y="250" width="40" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Cl8-nfxW1_5p-WXYCP8C-6" value="ISA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="485" y="280" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Cl8-nfxW1_5p-WXYCP8C-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Cl8-nfxW1_5p-WXYCP8C-7" target="Cl8-nfxW1_5p-WXYCP8C-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Cl8-nfxW1_5p-WXYCP8C-7" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="240" y="250" width="40" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Cl8-nfxW1_5p-WXYCP8C-8" value="ISA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="245" y="280" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Cl8-nfxW1_5p-WXYCP8C-14" value="Синтаксическая группа" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="310" y="50" width="140" height="60" as="geometry" />
