@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-11T16:02:03.789Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="8YbErMOeJnAB4N_u5nDu" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-11T16:06:32.163Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="yKBj_5YACFfFWZHJ1Fsv" version="14.4.9" type="github">
   <diagram id="n2Yb_p4xSmyTfC0nmvh4" name="Page-1">
     <mxGraphModel dx="782" dy="2034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -117,11 +117,29 @@
         <mxCell id="Cl8-nfxW1_5p-WXYCP8C-53" value="Член предложения" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="80" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Cl8-nfxW1_5p-WXYCP8C-56" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=14;" edge="1" parent="1" source="Cl8-nfxW1_5p-WXYCP8C-55" target="Cl8-nfxW1_5p-WXYCP8C-1">
+        <mxCell id="Cl8-nfxW1_5p-WXYCP8C-56" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=14;" edge="1" parent="1" source="Cl8-nfxW1_5p-WXYCP8C-55" target="Cl8-nfxW1_5p-WXYCP8C-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Cl8-nfxW1_5p-WXYCP8C-55" value="Название" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=middle;horizontal=1;fontStyle=4" vertex="1" parent="1">
-          <mxGeometry x="270" y="30" width="120" height="50" as="geometry" />
+          <mxGeometry x="450" y="-100" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl8-nfxW1_5p-WXYCP8C-60" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=14;" edge="1" parent="1" source="Cl8-nfxW1_5p-WXYCP8C-57" target="Cl8-nfxW1_5p-WXYCP8C-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl8-nfxW1_5p-WXYCP8C-57" value="Название&lt;br&gt;главной СГ" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=middle;horizontal=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="200" y="-30" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl8-nfxW1_5p-WXYCP8C-59" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=14;" edge="1" parent="1" source="Cl8-nfxW1_5p-WXYCP8C-58" target="Cl8-nfxW1_5p-WXYCP8C-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl8-nfxW1_5p-WXYCP8C-58" value="Название подчинённой СГ" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-90" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl8-nfxW1_5p-WXYCP8C-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=14;" edge="1" parent="1" source="Cl8-nfxW1_5p-WXYCP8C-61" target="Cl8-nfxW1_5p-WXYCP8C-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl8-nfxW1_5p-WXYCP8C-61" value="Член предложения подчинённой СГ" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="270" y="30" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
