@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-11T11:27:29.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="DWYcW4Ae3eR_yt9Tq_gl" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-11T11:32:21.750Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="CAYVd2mbMcf-j25lORrM" version="14.4.9" type="github">
   <diagram id="n2Yb_p4xSmyTfC0nmvh4" name="Page-1">
     <mxGraphModel dx="782" dy="2091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -58,6 +58,9 @@
         </mxCell>
         <mxCell id="Cl8-nfxW1_5p-WXYCP8C-26" value="Входит" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="220" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl8-nfxW1_5p-WXYCP8C-30" value="Подчиняется" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="680" y="150" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
